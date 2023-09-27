@@ -16,6 +16,8 @@ bin/**
 
 **/*.log
 
+output.tar.gz
+
 # don't commit the autobuilt version file
 src/main/resources/version.txt
 
